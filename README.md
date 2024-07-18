@@ -19,7 +19,7 @@
 # Make resource
 ./make.sh
 
-# Build syso
+# Build with .syso
 ./build.sh
 ```
 
